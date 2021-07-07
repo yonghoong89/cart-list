@@ -1,5 +1,4 @@
 import React, { PureComponent } from 'react';
-import React from 'react';
 
 class CartAddItemForm extends PureComponent {
     inputRef = React.createRef();
